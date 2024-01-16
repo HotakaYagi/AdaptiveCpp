@@ -1,4 +1,5 @@
 ![Project logo](/doc/img/logo/logo-color.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FHotakaYagi%2FAdaptiveCpp.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FHotakaYagi%2FAdaptiveCpp?ref=badge_shield)
 
 # AdaptiveCpp (formerly known as hipSYCL / Open SYCL)
 
@@ -134,3 +135,7 @@ Instructions for using AdaptiveCpp in CMake projects can also be found in the do
 
 
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FHotakaYagi%2FAdaptiveCpp.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FHotakaYagi%2FAdaptiveCpp?ref=badge_large)
